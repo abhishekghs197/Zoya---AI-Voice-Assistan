@@ -22,17 +22,17 @@ export default defineConfig(({mode}) => {
           display: 'standalone',
           icons: [
             {
-              src: 'https://picsum.photos/seed/zoya/192/192',
+              src: 'https://cdn-icons-png.flaticon.com/512/4712/4712139.png',
               sizes: '192x192',
               type: 'image/png'
             },
             {
-              src: 'https://picsum.photos/seed/zoya/512/512',
+              src: 'https://cdn-icons-png.flaticon.com/512/4712/4712139.png',
               sizes: '512x512',
               type: 'image/png'
             },
             {
-              src: 'https://picsum.photos/seed/zoya/512/512',
+              src: 'https://cdn-icons-png.flaticon.com/512/4712/4712139.png',
               sizes: '512x512',
               type: 'image/png',
               purpose: 'any maskable'
